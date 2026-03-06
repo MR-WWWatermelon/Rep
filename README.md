@@ -24,5 +24,5 @@
 *greed  
 *anvy 
 *pride  
-[x] privet  
-[] poka  
+- [x] poka  
+- [ ] privet
