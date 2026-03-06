@@ -21,5 +21,13 @@ ___
 >>>smex
  
 1.text  
-2.3
-44
+2.3  
+3.6  
+4.8  
+5.2  
+6.7  
+*greed  
+*anvy 
+*pride  
+[x] privet
+[] poka
